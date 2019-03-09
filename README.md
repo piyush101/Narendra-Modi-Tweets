@@ -8,5 +8,5 @@ So, for this I first need text cleaning,than creating more features like mostly 
 
 Here modi.csv contains the whole tweets dataset. It contains various features like tweets, languages and many more.
 
-features_modi contains features so, as to analyse his tweets.
+features_modi.ipynb contains features so, as to analyse his tweets.
 So, for this I first need text cleaning,than creating more features like mostly used word,most used hashtag,most tag, total number of language, frequency of tweets on average day and at election time,etc.
