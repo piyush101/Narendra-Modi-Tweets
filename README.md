@@ -4,3 +4,9 @@ Here I scraped all the tweets of Mr. Narendra Modi since he became India's 14th 
 
 After scraping, I create features so, as to analyse his tweets.
 So, for this I first need text cleaning,than creating more features like mostly used word,most used hashtag,most tag, total number of language, frequency of tweets on average day and at election time,etc
+
+
+Here modi.csv contains the whole tweets dataset. It contains various features like tweets, languages and many more.
+
+features_modi contains features so, as to analyse his tweets.
+So, for this I first need text cleaning,than creating more features like mostly used word,most used hashtag,most tag, total number of language, frequency of tweets on average day and at election time,etc.
